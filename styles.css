@@ -1,0 +1,33 @@
+body{
+  display: flex;
+  height: 100vh;
+  background-color:white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: navy;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+button{
+  width: auto;
+  height: auto;
+  border: 2px;
+  border-color: black;
+  border-radius: 10px;
+}
+button:hover{
+  background: grey
+
+}
+.audio{
+  volume:0.5;
+}
