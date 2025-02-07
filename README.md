@@ -1,2 +1,0 @@
-# ubiquitous-octo-adventure
-project
